@@ -1,0 +1,38 @@
+.promo{
+    width: 100%;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    padding: 13px;
+    font-size: 2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.parrafo{
+    display: flex;
+    width: 60%;
+    padding: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.policia2{
+    width: 40%;
+}
+p{
+    font-size: 13px;
+    float: left;
+}
+.policia1{
+    width: 40%;
+}
+.miley{
+    display: flex;
+    width: 98%;
+}
+.imagenMiley{
+    width: 60%;
+}
+.footerr{
+    width: 99%;
+}
